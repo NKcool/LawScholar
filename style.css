@@ -91,7 +91,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url(/img/logo.jpeg);
+    background-image: url("/img/logo.jpeg");
     background-size: cover;
     background-position: center;
 }
@@ -155,7 +155,7 @@ body {
     margin-top: 65px;
     width: 30%;
     height: 400px;
-    background-image: url(/website\ 13/img/main.png);
+    background-image: url(img/main.png);
     background-position: center;
     background-size: cover;
 }
